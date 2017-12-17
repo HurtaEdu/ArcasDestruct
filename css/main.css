@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Lora', serif;
+    text-align: center;
+    align-content: center;
+}
+
+
+
+.titulo {
+    font-size: 4em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: steelblue;
+}
+
+.eslogan {
+    font-size: 1.5em;
+}
+
+.img1 {
+    padding: 110px;
+    width: 50%;
+}
+
+.img3, .img4, .img5, .img6 {
+    padding: 120px;
+    width: 50%;
+}
