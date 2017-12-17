@@ -4,7 +4,6 @@ body {
     width: 100%;
     font-family: 'Lora', serif;
     text-align: center;
-    align-content: center;
 }
 
 
@@ -19,12 +18,3 @@ body {
     font-size: 1.5em;
 }
 
-.img1 {
-    padding: 110px;
-    width: 50%;
-}
-
-.img3, .img4, .img5, .img6 {
-    padding: 120px;
-    width: 50%;
-}
