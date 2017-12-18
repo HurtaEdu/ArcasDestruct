@@ -19,3 +19,14 @@ body {
     font-size: 1.5em;
 }
 
+/*Lo de azul violeta tiene que tener un color mas bonito :'v, y Tener un bonito borde */
+
+.register, .login {
+    border-color: black;
+    border-radius: 2px;
+    background-color: blueviolet;
+    color: white;
+    font-family: sans-serif;
+    border: 10px;
+}
+
