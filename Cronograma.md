@@ -31,7 +31,36 @@
 	
   <h2> Cronograma <h2>
   <table>
-  	
+	<tr>
+		<th>Usuarios alcanzables</th>
+		<th>Formulario</th>
+		<th>Google Analitics</th>
+		<th>SEO</th>
+		<th>Seguridad</th>
+		<th>Datos</th>
+		<th>Portadas/Informacion</th>
+		<th>Cursos</th>
+	</tr>
+	<tr>
+		<td>Edwin Hurtado</td>
+		<td>Edwin Hurtado</td>
+		<td></td>
+		<td></td>
+		<td>Cristian Andres</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Jordi</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
   </table>
 	
 	
