@@ -30,3 +30,12 @@ body {
     border: 10px;
 }
 
+/* Parallax */
+
+.parallax{
+	height:600px;
+	background-image: url(../img/banner.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
